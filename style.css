@@ -1,0 +1,3 @@
+@media screen and (max-width:640px){
+    #toggler:checked~.menu{max-height: 100%;}
+}
